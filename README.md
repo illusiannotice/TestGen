@@ -305,10 +305,6 @@ console.log('Backend status:', isHealthy ? '✅ OK' : '❌ Down');
 
 MIT © 2024
 
-## 🤝 Contributing
-
-Contributions welcome! Please read our [Contributing Guide](./CONTRIBUTING.md) first.
-
 ## 💬 Support
 
 - Email: 10sargsyanmesrop@gmail.com
