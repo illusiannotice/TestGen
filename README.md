@@ -301,12 +301,6 @@ console.log('Backend status:', isHealthy ? '✅ OK' : '❌ Down');
 }
 ```
 
-## 📚 Learn More
-
-- [Backend Documentation](./backend/README.md)
-- [Examples](./examples/)
-- [Contributing Guide](./CONTRIBUTING.md)
-
 ## 📄 License
 
 MIT © 2024
@@ -317,9 +311,7 @@ Contributions welcome! Please read our [Contributing Guide](./CONTRIBUTING.md) f
 
 ## 💬 Support
 
-- Issues: https://github.com/yourusername/testgen/issues
-- Email: support@example.com
-- Discord: [Join our community](https://discord.gg/yourserver)
+- Email: 10sargsyanmesrop@gmail.com
 
 ---
 
